@@ -1,1 +1,1 @@
-# epic-archeryb-stage-6
+# Project Template 26
